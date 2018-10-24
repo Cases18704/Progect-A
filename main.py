@@ -3,7 +3,7 @@ Developers: Ivanov, Petrova, Nikolaeva
 '''
 
 from turtle import *
-
+reset()
 # Frame
 
 # Mark
@@ -11,3 +11,5 @@ from turtle import *
 # Picture
 
 # Text
+write('С праздником!')
+done()
